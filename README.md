@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Augustine Yeboah-Afari(@Bruno1z)
-- 👀 I’m interested in aviation,cybersecurity,anime and fun coding.
+- 👀 I’m interested in aviation,cybersecurity,anime and sports
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on python based projects.
 - 📫 You can reach me "@___kweku___" on twitter
