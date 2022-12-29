@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Augustine Yeboah-Afari(@Bruno1z)
 - 👀 I’m interested in aviation,cybersecurity,anime and sports
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on python based projects.
-- 📫 You can reach me "@___kweku___" on twitter
+- 🌱 I love Python and BASH Scripting.
+
 
 <!---
 Bruno1z/Bruno1z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
